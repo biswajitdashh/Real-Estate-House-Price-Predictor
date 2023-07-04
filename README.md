@@ -51,13 +51,19 @@ Click on the "Predict" button to get the estimated price for the property.
 
 The project structure is as follows:
 
-app.py: Python Flask server script that handles HTTP requests and serves the website.
-templates/index.html: HTML file containing the website's frontend code.
-static/css/style.css: CSS file for styling the website.
-static/js/script.js: JavaScript file for handling user interactions on the website.
-data/bangalore_home_prices.csv: Dataset file containing Bangalore home prices.
-model.pkl: Trained machine learning model saved as a pickle file.
-notebooks/: Jupyter Notebook files containing the step-by-step process of building the model.
+**app.py**: Python Flask server script that handles HTTP requests and serves the website.
+
+**templates/index.html**: HTML file containing the website's frontend code.
+
+**static/css/style.css**: CSS file for styling the website.
+
+**static/js/script.js**: JavaScript file for handling user interactions on the website.
+
+**data/bangalore_home_prices.csv**: Dataset file containing Bangalore home prices.
+
+**model.pkl**: Trained machine learning model saved as a pickle file.
+
+**notebooks/**: Jupyter Notebook files containing the step-by-step process of building the model.
 
 **Requirements**
 
