@@ -1,5 +1,5 @@
 # Real-Estate-House-Price-Predictor
-
+![BHP_website](https://github.com/biswajitdashh/Real-Estate-House-Price-Predictor/assets/77931024/60851890-574e-40b7-ad38-1a8c1119656e)
 The real estate price prediction website utilizes the Bangalore home prices dataset from Kaggle.com. The dataset is cleaned, outliers are detected and removed, and feature engineering techniques are applied to enhance the data. The primary model used for prediction is linear regression, implemented using the popular Scikit-learn (Sklearn) library.
 
 The project incorporates various data science concepts, including data cleaning, feature engineering, model building, and hyperparameter tuning using techniques such as GridSearchCV. To evaluate the model's performance, K-fold cross-validation is employed.
