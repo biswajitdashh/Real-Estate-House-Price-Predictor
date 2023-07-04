@@ -12,10 +12,14 @@ The website's frontend is developed using HTML, CSS, and JavaScript, creating an
 
 Clone the repository to your local machine:
 
-```git clone https://github.com/your-username/real-estate-prediction-website.git```
+```
+git clone https://github.com/your-username/real-estate-prediction-website.git
+```
 Navigate to the project directory:
 
-```cd real-estate-prediction-website```
+```
+cd real-estate-prediction-website
+```
 Create and activate a virtual environment (optional but recommended):
 
 ```
@@ -25,13 +29,17 @@ source env/bin/activate
 
 Install the required dependencies:
 
-```pip install -r requirements.txt```
+```
+pip install -r requirements.txt
+```
 
 **Usage**
 
 Start the Flask server:
 
-```python app.py```
+```
+python app.py
+```
 
 Open your web browser and go to http://localhost:5000 to access the Real Estate Price Prediction Website.
 
@@ -64,17 +72,25 @@ Scikit-learn (Sklearn) 0.24.2 or higher
 Jupyter Notebook (optional) for exploring the dataset and model development
 Visual Studio Code, PyCharm, or any other preferred IDE for Python development
 These dependencies are listed in the requirements.txt file. You can install them using the following command:
-```pip install -r requirements.txt```
+```
+pip install -r requirements.txt
+```
 
 It is recommended to set up a virtual environment before installing the dependencies to keep your system environment clean. You can create a virtual environment using the following command:
-```python3 -m venv env```
+```
+python3 -m venv env
+```
 
 Activate the virtual environment:
 
 For Windows:
-```env\Scripts\activate```
+```
+env\Scripts\activate
+```
 
 For Linux/Mac:
-```source env/bin/activate```
+```
+source env/bin/activate
+```
 
 
